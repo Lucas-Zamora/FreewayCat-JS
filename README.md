@@ -6,7 +6,7 @@ Jogo realizado no p5.js Web Editor;
 
 Link para jogar (clique na tela para iniciar): https://editor.p5js.org/Lucas-Zamora/full/DZ9IFqmRD
 
-Teclas: ⬆️ e ⬇️
+Teclas que você ira utilizar: ⬆️ e ⬇️
 
 Regras: 
 - Você só pode se movimentar para cima e para baixo.
