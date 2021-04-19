@@ -7,3 +7,11 @@ Jogo realizado no p5.js Web Editor;
 Link para jogar (clique na tela para iniciar): https://editor.p5js.org/Lucas-Zamora/full/DZ9IFqmRD
 
 Teclas: ⬆️ e ⬇️
+
+Regras: 
+
+-Você só pode se movimentar para cima e para baixo.
+
+-Você ganhará pontos ao atravessar a estrada, porém, perdara pontos ao ser atingido por um carro (O valor de pontos não fica negativo, fique tranquilo).
+
+-Se divirta :D
